@@ -1,0 +1,16 @@
+C:\Users\15\Desktop\Nabin24445\netcentric\myfirstproject\bin\Debug\myfirstproject.exe.config
+C:\Users\15\Desktop\Nabin24445\netcentric\myfirstproject\bin\Debug\myfirstproject.exe
+C:\Users\15\Desktop\Nabin24445\netcentric\myfirstproject\bin\Debug\myfirstproject.pdb
+C:\Users\15\Desktop\Nabin24445\netcentric\myfirstproject\obj\Debug\myfirstproject.csproj.AssemblyReference.cache
+C:\Users\15\Desktop\Nabin24445\netcentric\myfirstproject\obj\Debug\myfirstproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\15\Desktop\Nabin24445\netcentric\myfirstproject\obj\Debug\myfirstproject.csproj.CoreCompileInputs.cache
+C:\Users\15\Desktop\Nabin24445\netcentric\myfirstproject\obj\Debug\myfirstproject.exe
+C:\Users\15\Desktop\Nabin24445\netcentric\myfirstproject\obj\Debug\myfirstproject.pdb
+E:\C sharp\myfirstproject\obj\Debug\myfirstproject.csproj.AssemblyReference.cache
+E:\C sharp\myfirstproject\obj\Debug\myfirstproject.csproj.SuggestedBindingRedirects.cache
+E:\C sharp\myfirstproject\obj\Debug\myfirstproject.csproj.CoreCompileInputs.cache
+E:\C sharp\myfirstproject\obj\Debug\myfirstproject.exe
+E:\C sharp\myfirstproject\obj\Debug\myfirstproject.pdb
+E:\C sharp\myfirstproject\bin\Debug\myfirstproject.exe.config
+E:\C sharp\myfirstproject\bin\Debug\myfirstproject.exe
+E:\C sharp\myfirstproject\bin\Debug\myfirstproject.pdb
