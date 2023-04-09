@@ -1,0 +1,16 @@
+C:\Users\15\Desktop\Nabin24445\netcentric\secondproject\bin\Debug\secondproject.exe.config
+C:\Users\15\Desktop\Nabin24445\netcentric\secondproject\bin\Debug\secondproject.exe
+C:\Users\15\Desktop\Nabin24445\netcentric\secondproject\bin\Debug\secondproject.pdb
+C:\Users\15\Desktop\Nabin24445\netcentric\secondproject\obj\Debug\secondproject.csproj.AssemblyReference.cache
+C:\Users\15\Desktop\Nabin24445\netcentric\secondproject\obj\Debug\secondproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\15\Desktop\Nabin24445\netcentric\secondproject\obj\Debug\secondproject.csproj.CoreCompileInputs.cache
+C:\Users\15\Desktop\Nabin24445\netcentric\secondproject\obj\Debug\secondproject.exe
+C:\Users\15\Desktop\Nabin24445\netcentric\secondproject\obj\Debug\secondproject.pdb
+E:\C sharp\secondproject\bin\Debug\secondproject.exe.config
+E:\C sharp\secondproject\bin\Debug\secondproject.exe
+E:\C sharp\secondproject\bin\Debug\secondproject.pdb
+E:\C sharp\secondproject\obj\Debug\secondproject.csproj.AssemblyReference.cache
+E:\C sharp\secondproject\obj\Debug\secondproject.csproj.SuggestedBindingRedirects.cache
+E:\C sharp\secondproject\obj\Debug\secondproject.csproj.CoreCompileInputs.cache
+E:\C sharp\secondproject\obj\Debug\secondproject.exe
+E:\C sharp\secondproject\obj\Debug\secondproject.pdb
