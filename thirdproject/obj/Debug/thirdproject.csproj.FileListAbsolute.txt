@@ -1,0 +1,16 @@
+C:\Users\15\Desktop\Nabin24445\netcentric\thirdproject\bin\Debug\thirdproject.exe.config
+C:\Users\15\Desktop\Nabin24445\netcentric\thirdproject\bin\Debug\thirdproject.exe
+C:\Users\15\Desktop\Nabin24445\netcentric\thirdproject\bin\Debug\thirdproject.pdb
+C:\Users\15\Desktop\Nabin24445\netcentric\thirdproject\obj\Debug\thirdproject.csproj.AssemblyReference.cache
+C:\Users\15\Desktop\Nabin24445\netcentric\thirdproject\obj\Debug\thirdproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\15\Desktop\Nabin24445\netcentric\thirdproject\obj\Debug\thirdproject.csproj.CoreCompileInputs.cache
+C:\Users\15\Desktop\Nabin24445\netcentric\thirdproject\obj\Debug\thirdproject.exe
+C:\Users\15\Desktop\Nabin24445\netcentric\thirdproject\obj\Debug\thirdproject.pdb
+E:\C sharp\thirdproject\obj\Debug\thirdproject.csproj.AssemblyReference.cache
+E:\C sharp\thirdproject\obj\Debug\thirdproject.csproj.SuggestedBindingRedirects.cache
+E:\C sharp\thirdproject\obj\Debug\thirdproject.csproj.CoreCompileInputs.cache
+E:\C sharp\thirdproject\obj\Debug\thirdproject.exe
+E:\C sharp\thirdproject\obj\Debug\thirdproject.pdb
+E:\C sharp\thirdproject\bin\Debug\thirdproject.exe.config
+E:\C sharp\thirdproject\bin\Debug\thirdproject.exe
+E:\C sharp\thirdproject\bin\Debug\thirdproject.pdb
